@@ -19,4 +19,4 @@ while True:
         for line in f:
             c.send(line)
 
-    print("文件发送完毕")
+    print("Successfully")
